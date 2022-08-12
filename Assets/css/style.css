@@ -147,6 +147,8 @@ h2 {
     z-index: 0;
     padding-bottom: 20px;
     z-index: 2;
+    color: #030E4E;
+    font-weight: bold;
 }
 header ul {
     list-style: none;
